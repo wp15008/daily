@@ -1,0 +1,362 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"saml",
+				"sample1.txt"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"onl",
+				"onclick	Attr"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"min",
+				"minBox"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"d",
+				"dClock"
+			],
+			[
+				"sec",
+				"secBox"
+			],
+			[
+				"hour",
+				"hourBox"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"kake",
+				"kakeForm"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"mar",
+				"margin"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ma",
+		"selected_items":
+		[
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 244.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/05/sample1.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/04/sample10.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/04/sample9.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/04/sample8.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/04/sample7.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/04/sample5.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/04/sample6.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/04/sample4.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/04/sample3.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/04/sample2.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/04/sample1.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/03/sample18.html",
+		"/C/Users/倉本由記/Documents/daily/furikaeri.md",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/03/sample17.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/03/sample16.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/03/sample14.html",
+		"/C/Users/倉本由記/Documents/njq_sample/chapter02/03/sample14.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/03/sample13.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/03/sample12.html",
+		"/C/Users/倉本由記/Documents/njq_sample/chapter02/03/sample12.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/03/sample11.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/03/sample10.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/03/sample9.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/03/sample7.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/03/sample8.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/03/sample6.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/03/sample5.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/03/sample1.html",
+		"/C/Users/倉本由記/Documents/njq_sample/chapter02/03/sample3.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/02/sample26.html",
+		"/C/Users/倉本由記/Documents/njq_sample/chapter01/01/sample1.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/02/sample25.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/02/sample24.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/02/sample23.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/02/sample22.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/02/sample21.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/02/sample20.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/02/sample19.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/02/sample15.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/02/sample14.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/02/sample13.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/02/sample12.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/02/sample11.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/02/sample10.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/02/sample9.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/02/sample1 - コピー.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/02/sample8.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/02/sample7.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/02/sample5.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/02/sample4.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/02/sample3.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/02/sample2.html",
+		"/C/Users/倉本由記/Documents/lesson_jQuery/chapter02/02/sample1.html",
+		"/C/Users/倉本由記/Documents/njq_sample/chapter02/02/sample1.html",
+		"/C/Users/倉本由記/Documents/HTML5_002/index_different.html",
+		"/C/Users/倉本由記/Documents/njq_sample/chapter02/01/alert.html",
+		"/C/Users/倉本由記/Documents/__MACOSX/njq_sample/chapter02/01/._alert.html",
+		"/C/Users/倉本由記/Documents/__MACOSX/njq_sample/chapter01/01/._sample1.html",
+		"/C/Users/倉本由記/Documents/javascript_lesson/chap11/1104/tamplate1.html",
+		"/C/Users/倉本由記/Documents/jssample/Chap11/1104/sample4e.html",
+		"/C/Users/倉本由記/Documents/javascript_lesson/chap11/1103/tamplate1.html",
+		"/C/Users/倉本由記/Documents/jssample/Chap11/1103/sample3e.html",
+		"/C/Users/倉本由記/Documents/javascript_lesson/chap11/1103/jquery-1.4.2.min.js",
+		"/C/Users/倉本由記/Documents/javascript_lesson/chap10/1003/tamplate1.html",
+		"/C/Users/倉本由記/Documents/javascript_lesson/chap10/1002/tamplate1.html",
+		"/C/Users/倉本由記/Documents/javascript_lesson/chap10/1001/tamplate1.html",
+		"/C/Users/倉本由記/Documents/javascript_lesson/chap9/0902/tamplate1.html",
+		"/C/Users/倉本由記/Documents/javascript_lesson/chap9/0901/tamplate1.html",
+		"/C/Users/倉本由記/Documents/javascript_lesson/chap8/0805/tamplate1.html",
+		"/C/Users/倉本由記/Documents/javascript_lesson/chap8/0806/tamplate1.html",
+		"/C/Users/倉本由記/Documents/jssample/Chap8/0805/sampe5e.html",
+		"/C/Users/倉本由記/Documents/javascript_lesson/chap8/0804/tamplate1.html",
+		"/C/Users/倉本由記/Documents/javascript_lesson/chap8/calculater.html",
+		"/C/Users/倉本由記/Documents/javascript_lesson/0803/template1.html",
+		"/C/Users/倉本由記/Documents/javascript_lesson/tamplate1.html",
+		"/C/Users/倉本由記/Desktop/1014/index.html",
+		"/C/Users/倉本由記/Desktop/1014practice.css",
+		"/C/Users/倉本由記/Desktop/1014.html",
+		"/C/Users/倉本由記/Documents/sumple.md",
+		"/C/Users/倉本由記/Documents/daily/README.md",
+		"/C/Users/倉本由記/Documents/daily/daily.furikaeri.sublime-project",
+		"/C/Users/倉本由記/Desktop/test.html",
+		"/C/Users/倉本由記/Desktop/md",
+		"/C/Users/倉本由記/Documents/tutorial/sumple.md",
+		"/C/Users/倉本由記/Documents/cutorial/sumple.md",
+		"/C/Users/倉本由記/Documents/cutorial Y.K/sumple.md",
+		"/C/Users/倉本由記/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/倉本由記/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"			"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "furikaeri.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 133.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
